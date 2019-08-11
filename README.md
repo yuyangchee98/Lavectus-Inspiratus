@@ -13,8 +13,6 @@ The text file that is being pulled to generate the sentences are named Cnoun.tex
 ## Link
 Chrome extension can be downloaded here: https://chrome.google.com/webstore/detail/get-a-random-inspiration/cmkkldnnkgcfjikekcdbliijghkjdied?hl=en-US&gl=US
 
-Version without copy function: https://yuyangchee98.github.io/random-inspiration-generator/
-
 Version with copy function: https://webpages.scu.edu/ftp/ychee/h4h/index.html
 
 ## Created
